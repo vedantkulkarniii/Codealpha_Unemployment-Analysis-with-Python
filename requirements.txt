@@ -1,0 +1,14 @@
+# Data Analysis Libraries
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualization Libraries
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Utilities
+openpyxl==3.1.2
